@@ -1,1 +1,2 @@
 # odin-recipes
+I just finished making my first website. It is not a big website, it's just a small one to help me understad about the whole processing of commiting and pushing projects to GitHub. Thanks for visiting my website, hope you had fun!
